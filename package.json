@@ -34,7 +34,7 @@
     "redux-actions": "^2.6.5",
     "redux-thunk": "^2.3.0",
     "redux-thunk-actions": "^1.3.2",
-    "standard-version": "^6.0.1"
+    "standard-version": "^8.0.1"
   },
   "eslintConfig": {
     "extends": "react-app"
